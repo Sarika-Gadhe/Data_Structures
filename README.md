@@ -42,12 +42,14 @@ It is designed for learners, developers, and interview preparation — helping y
 
 ## 📂 Repository Structure
 
+
+```text
 Data_Structures/
 │── Binary_Search/                   # Binary search implementations
 │── C_LinkedList/                    # Linked list in C
 │── Cpp_Generic/                     # Generic data structures in C++
 │── Cpp_LinkedList/                  # Linked list in C++
-│── Cpp_Specific_Generic_BST/        # BST (specific & generic) in C++
+│── Cpp_Specific_Generic_BST/        # Binary Search Tree (specific & generic) in C++
 │── Cpp_Specific_Generic_Searching/  # Searching algorithms (specific & generic) in C++
 │── Cpp_Specific_Generic_Sorting/    # Sorting algorithms (specific & generic) in C++
 │── Java_Generic/                    # Generic data structures in Java
@@ -59,4 +61,4 @@ Data_Structures/
 │── Stack_Specific/                  # Specific stack implementations
 │── ALL_LinkedList_InCpp.cpp         # All linked list operations in C++
 │── ALL_LinkedList_InJava.java       # All linked list operations in Java
-│── README.md
+│── README.md                        # Project documentation
